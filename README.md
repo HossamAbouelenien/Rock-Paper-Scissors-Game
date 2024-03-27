@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game-C++
-In this project , I made a nice game with c++ " rock-paper-scissors "
+This is my second project , I made an exciting game with c++ " rock-paper-scissors "
